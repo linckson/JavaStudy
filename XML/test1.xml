@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK" ?>
+<?xml-stylesheet type="text/css" href="a.css" ?>
+<users>
+    <user>
+        <name>Alice</name>
+        <age>19</age>
+        <gender>female</gender>
+    </user>
+    <user>
+        <name>Bob</name>
+        <age>18</age>
+        <gender>male</gender>
+    </user>
+</users>

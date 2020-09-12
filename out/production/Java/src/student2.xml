@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<students>
+    <student number="heima_1001">
+        <name id="Old">
+            <xing>Barack</xing>
+            <ming>Obama</ming>
+        </name>
+        <age>18</age>
+        <sex>female</sex>
+    </student>
+    <student number="heima_1002">
+        <name id="new">
+            <xing>Donald</xing>
+            <ming>Trump</ming>
+        </name>
+        <age>99</age>
+        <sex>male</sex>
+    </student>
+</students>

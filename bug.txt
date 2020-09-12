@@ -1,0 +1,7 @@
+add出现了异常
+异常原因java.lang.NullPointerException
+=======================
+div出现了异常
+异常原因java.lang.ArithmeticException: / by zero
+=======================
+共出现了2次异常
